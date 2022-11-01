@@ -24,7 +24,7 @@ class MyExtension {
           // It should never change!
           // It corresponds to the class method with the same name.
           opcode: 'hello',
-          blockType: Scratch.BlockType.COMMAND,
+          blockType: Scratch.BlockType.REPORTER,
           text: 'Hello, world!'
         }
       ]
